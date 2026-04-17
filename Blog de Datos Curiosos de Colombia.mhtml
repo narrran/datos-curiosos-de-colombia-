@@ -1,0 +1,95 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:3000/Index.html?vscode-livepreview=true
+Subject: Blog de Datos Curiosos de Colombia
+Date: Thu, 16 Apr 2026 21:01:57 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--o6ErnlE7n0aSwe6ChnOuXLyOy37CCpOZ05k3iSSox2----"
+
+
+------MultipartBoundary--o6ErnlE7n0aSwe6ChnOuXLyOy37CCpOZ05k3iSSox2----
+Content-Type: text/html
+Content-ID: <frame-51A8B30C698FA2FC808B18BD4D64B915@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:3000/Index.html?vscode-livepreview=true
+
+<!DOCTYPE html><html lang=3D"es"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-40bbe6aa-461c-4cde-834a-14b33fa1c601@mhtml.blink" />
+   =20
+    <title>Blog de Datos Curiosos de Colombia</title>
+
+   =20
+
+</head>
+
+<body>
+
+    <header>
+        <h1>Datos curiosos de Colombia</h1><h1>
+   =20
+    </h1></header>
+
+   =20
+
+    <section id=3D"cafe">
+        <h2> El caf=C3=A9 colombiano</h2>
+        <p>Colombia produce uno de los mejores caf=C3=A9s del mundo
+        <img src=3D"https://upload.wikimedia.org/wikipedia/commons/4/45/Cof=
+fee_beans.jpg">
+    </p></section>
+
+    <section id=3D"biodiversidad">
+        <h2> Biodiversidad</h2>
+        <p>Es el segundo pa=C3=ADs m=C3=A1s biodiverso del planeta</p>
+        <img src=3D"https://upload.wikimedia.org/wikipedia/commons/6/6f/Tro=
+pical_forest.jpg">
+
+        <ul>
+            <li>M=C3=A1s de 1900 especies de aves
+            </li><li>Gran variedad de climas</li>
+            <li>Ecosistemas =C3=BAnicos</li>
+        </ul>
+    </section>
+
+    <section id=3D"rios">
+        <h2> Ca=C3=B1o Cristales</h2>
+        <p>Conocido como el r=C3=ADo de los cinco colores
+        <img src=3D"https://upload.wikimedia.org/wikipedia/commons/e/e3/Can=
+o_Cristales.jpg">
+    </p></section>
+
+    <div>
+        <h3>Dato extra</h3>
+        <p>Colombia tiene m=C3=A1s de 60 parques nacionales naturales
+    </p></div>
+
+    <footer>
+        <p>Blog datos curiosos</p>
+    </footer>
+
+
+
+</body></html>
+------MultipartBoundary--o6ErnlE7n0aSwe6ChnOuXLyOy37CCpOZ05k3iSSox2----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-40bbe6aa-461c-4cde-834a-14b33fa1c601@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: "Saira Stencil"; background-color: rgb(244, 244, 244); =
+}
+
+header { background-color: rgb(255, 136, 0); color: rgb(51, 51, 51); text-a=
+lign: center; padding: 20px; }
+
+section { background: white; margin: 20px; padding: 15px; border-radius: 10=
+px; }
+
+img { width: 100%; border-radius: 10px; }
+
+footer { background-color: rgb(0, 0, 0); color: white; text-align: center; =
+padding: 10px; }
+------MultipartBoundary--o6ErnlE7n0aSwe6ChnOuXLyOy37CCpOZ05k3iSSox2------
